@@ -1,4 +1,4 @@
-﻿Shader "Custom/S01"
+﻿Shader "Custom/E01"
 {
     Properties
     {
